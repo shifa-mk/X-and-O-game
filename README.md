@@ -1,1 +1,1 @@
-# X-and-O-game
+# Tic Tac Toa game
